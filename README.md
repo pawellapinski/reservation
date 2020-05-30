@@ -1,8 +1,7 @@
 # reservation
  hotelowy system rezerwacji Laravel \ hotel system reservation
  
- 
- tworzony jedna z większych aplikacji w Laravel którą obecnie tworze. 
+jedna z większych aplikacji w Laravel którą obecnie tworze. 
  - panel administracyjny
  - kalendarz rezerwacji 
  - użytkownicy /logowanie/rejestracja
@@ -12,3 +11,6 @@
 
 
 Używam fakera do zapełniania bazy danych sztucznymi danymi.
+
+baza: MySQL
+
