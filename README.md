@@ -11,6 +11,7 @@ jedna z większych aplikacji w Laravel którą obecnie tworze.
 
 
 Używam fakera do zapełniania bazy danych sztucznymi danymi.
+controllers z repository itd.
 
 baza: MySQL
 
